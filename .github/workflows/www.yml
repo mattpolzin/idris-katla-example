@@ -11,7 +11,7 @@ jobs:
     steps:
     - uses: mattpolzin/idris-katla-action@main
       with:
-        MARKDOWN_PATH: ./md
+        MARKDOWN_PATH: ./
         HTML_PATH: ./html
     - name: Deploy HTML
       uses: JamesIves/github-pages-deploy-action@4.1.3
