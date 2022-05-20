@@ -42,5 +42,5 @@ Something interesting.
 ## A section
 Contents of that section.
 
-A [link](other.md)
+A [link](/other)
 
