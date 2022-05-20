@@ -1,2 +1,2 @@
-INTERNAL ERROR: build/ttc/source/other.ttm: File Not Found
-Couldn't open metadata file: build/ttc/source/other.ttm
+INTERNAL ERROR: build/ttc/source/./md/other.ttm: File Not Found
+Couldn't open metadata file: build/ttc/source/./md/other.ttm
