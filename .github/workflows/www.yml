@@ -8,6 +8,8 @@ on:
 jobs:
   html:
     runs-on: ubuntu-latest
+    container: 
+      image: ubuntu
     steps:
     - uses: mattpolzin/idris-katla-action@main
       with:
