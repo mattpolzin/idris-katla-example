@@ -9,7 +9,7 @@ jobs:
   html:
     runs-on: ubuntu-latest
     steps:
-    - uses: mattpolzin/idris-katla-action@0.1.0
+    - uses: mattpolzin/idris-katla-action@main
       with:
         MARKDOWN_PATH: ./md
         HTML_PATH: ./html
