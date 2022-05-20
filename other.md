@@ -1,2 +1,40 @@
-INTERNAL ERROR: md/build/ttc/source/other.ttm: File Not Found
-Couldn't open metadata file: md/build/ttc/source/other.ttm
+<style>
+.IdrisData {
+  color: darkred
+}
+.IdrisType {
+  color: blue
+}
+.IdrisBound {
+  color: black
+}
+.IdrisFunction {
+  color: darkgreen
+}
+.IdrisKeyword {
+  text-decoration: underline;
+}
+.IdrisComment {
+  color: #b22222
+}
+.IdrisNamespace {
+  font-style: italic;
+  color: black
+}
+.IdrisPostulate {
+  font-weight: bold;
+  color: red
+}
+.IdrisModule {
+  font-style: italic;
+  color: black
+}
+.IdrisCode {
+  display: block;
+  background-color: whitesmoke;
+}
+</style>
+The Linked Page
+=========
+The linked content.
+
