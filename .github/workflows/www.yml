@@ -8,9 +8,8 @@ on:
 jobs:
   html:
     runs-on: ubuntu-latest
-    container: 
-      image: ubuntu
     steps:
+    - uses: actions/checkout@v2
     - uses: mattpolzin/idris-katla-action@main
       with:
         MARKDOWN_PATH: ./md
